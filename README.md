@@ -1,11 +1,39 @@
-## Hi there 👋 I'm Retaj!
+## Hi there # Hi there, I'm Retaj! 👋
 
-- 🚀 I'm interested in Artificial Intelligence and Machine Learning.
-- 🎓 10th grade student passionate about technology.
-- 💡 Winner of NASA Space Apps Challenge (Global Nominee).
-- first place winner in the first AI competition in Egypt 
-- 🌱 Currently learning more about Python and Data Science.
-- 📫 How to reach me: https://www.linkedin.com/in/retaj-assem-715701319?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+### 🚀 Student Leader & AI Enthusiast
+I'm a 10th-grade student at Sama Winchester College, passionate about leveraging Artificial Intelligence and Machine Learning to solve global challenges.
+
+---
+
+### 🏆 Achievements
+- **NASA Space Apps Challenge:** Global Nominee & "Best Impact" Award winner for an AI-driven climate application.
+- **National AI Competition:** 1st Place winner in Egypt (among 1,200+ participants).
+- **Global Youth Ambassador:** Selected for the HundrED 2027 Global Collection.
+
+---
+
+### 🛠️ Tech Stack & Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 🌟 Current Projects
+- **The Bio-Engine:** Working on innovative tech solutions.
+- **NSRI School Chapter:** Founder & President at SWC Student Council HQ.
+- **Rise Above Therapy:** Developing AI-driven support tools.
+
+---
+
+### 📈 GitHub Stats
+![Retaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=retajassem2009-byte&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retajassem2009-byte&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/retaj-assem-715701319?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [Email](retajassem2009@gmail.com)
 
 <!--
 **retajassem2009-byte/retajassem2009-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
