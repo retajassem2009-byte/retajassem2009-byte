@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Retaj!
+
+- 🚀 I'm interested in Artificial Intelligence and Machine Learning.
+- 🎓 10th grade student passionate about technology.
+- 💡 Winner of NASA Space Apps Challenge (Global Nominee).
+- first place winner in the first AI competition in Egypt 
+- 🌱 Currently learning more about Python and Data Science.
+- 📫 How to reach me: https://www.linkedin.com/in/retaj-assem-715701319?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 <!--
 **retajassem2009-byte/retajassem2009-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
